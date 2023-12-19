@@ -2,10 +2,10 @@
 CPSC 488 Final Project
 
 ## Introduction
-This repository contains the code for the ProT_GAN project, developed as a part of the CPSC 488 Final Project. ProT_GAN is a generative model designed for generating protein sequences. It leverages a Generative Adversarial Network (GAN) architecture to generate protein sequences with desired properties.
+This repository contains the code for the ProT-GAN project, developed as a part of the CPSC 488 Final Project. ProT-GAN is a generative model designed for generating protein sequences. It leverages a Generative Adversarial Network (GAN) architecture to generate protein sequences with desired properties.
 
 ## Project Overview
-In this project, we implemented ProT_GAN and trained it on protein sequence data. The model's primary goal is to generate novel protein sequences based on the characteristics of the input data. It is particularly useful for generating proteins with specific properties or for various design tasks within the field of bioinformatics.
+In this project, we implemented ProT-GAN and trained it on protein sequence data. The model's primary goal is to generate novel protein sequences based on the characteristics of the input data. It is particularly useful for generating proteins with specific properties or for various design tasks within the field of bioinformatics.
 
 ## Data
 Data was downloaded from [UniProt]{https://www.uniprot.org/}. We trained the model on homo sapien transcription and non-transcription protein sequences.
@@ -13,7 +13,7 @@ Data was downloaded from [UniProt]{https://www.uniprot.org/}. We trained the mod
 ## How to Run
 To run this project, we recommend using Google Colab with access to GPUs.
 
-The file, ProT_GAN.ipynb includes the model architecture, training, and evaluation components. 
+The file, ProT-GAN.ipynb includes the model architecture, training, and evaluation components. 
 
 The following steps outline how to run the code:
 
